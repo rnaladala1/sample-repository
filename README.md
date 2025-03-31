@@ -10,6 +10,6 @@ This is a sample repository created to demonstrate the structure and content of 
 
 ## Getting Started
 
-1. Clone the repository:
+1. Clone the repository: ---
    ```bash
    git clone https://github.com/your-username/sample-repository.git
